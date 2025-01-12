@@ -1,0 +1,14 @@
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\Application.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\configuration\ServiceConfiguration.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\controller\PostController.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dao\PostRepository.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dto\CommentDto.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dto\DatePeriodDto.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dto\exceptions\PostNotFoundException.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dto\NewCommentDto.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dto\NewPostDto.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dto\PostDto.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\model\Comment.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\model\Post.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\service\PostService.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\service\PostServiceImpl.java
