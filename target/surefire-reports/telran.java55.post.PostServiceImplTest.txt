@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: telran.java55.post.PostServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.144 s <<< FAILURE! -- in telran.java55.post.PostServiceImplTest
+telran.java55.post.PostServiceImplTest.testAddNewPost -- Time elapsed: 0.133 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.modelmapper.ModelMapper.map(Object, java.lang.Class)" because "this.modelMapper" is null
+	at telran.java55.post.service.PostServiceImpl.addNewPost(PostServiceImpl.java:30)
+	at telran.java55.post.PostServiceImplTest.testAddNewPost(PostServiceImplTest.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+telran.java55.post.PostServiceImplTest.testUpdatePost -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.UnsupportedOperationException
+	at java.base/java.util.ImmutableCollections.uoe(ImmutableCollections.java:142)
+	at java.base/java.util.ImmutableCollections$AbstractImmutableCollection.add(ImmutableCollections.java:147)
+	at telran.java55.post.model.Post.addTag(Post.java:47)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at telran.java55.post.service.PostServiceImpl.updatePost(PostServiceImpl.java:59)
+	at telran.java55.post.PostServiceImplTest.testUpdatePost(PostServiceImplTest.java:66)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+telran.java55.post.PostServiceImplTest.testFindPostById -- Time elapsed: 0.003 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.modelmapper.ModelMapper.map(Object, java.lang.Class)" because "this.modelMapper" is null
+	at telran.java55.post.service.PostServiceImpl.findPostById(PostServiceImpl.java:36)
+	at telran.java55.post.PostServiceImplTest.testFindPostById(PostServiceImplTest.java:54)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+

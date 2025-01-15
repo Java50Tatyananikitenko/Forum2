@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: telran.java55.accounting.UserAccountServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.211 s <<< FAILURE! -- in telran.java55.accounting.UserAccountServiceImplTest
+telran.java55.accounting.UserAccountServiceImplTest.testGetUser -- Time elapsed: 0.181 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.modelmapper.ModelMapper.map(Object, java.lang.Class)" because "this.modelMapper" is null
+	at telran.java55.accounting.service.UserAccountServiceImpl.getUser(UserAccountServiceImpl.java:53)
+	at telran.java55.accounting.UserAccountServiceImplTest.testGetUser(UserAccountServiceImplTest.java:66)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+telran.java55.accounting.UserAccountServiceImplTest.testRegister -- Time elapsed: 0.008 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.modelmapper.ModelMapper.map(Object, java.lang.Class)" because "this.modelMapper" is null
+	at telran.java55.accounting.service.UserAccountServiceImpl.register(UserAccountServiceImpl.java:38)
+	at telran.java55.accounting.UserAccountServiceImplTest.testRegister(UserAccountServiceImplTest.java:50)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
