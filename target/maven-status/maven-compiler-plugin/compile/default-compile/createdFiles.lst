@@ -1,7 +1,6 @@
 telran\java55\post\dto\exceptions\PostNotFoundException.class
 telran\java55\accounting\dao\UserAccountRepository.class
 telran\java55\accounting\model\Role.class
-telran\java55\accounting\configuration\SecurityConfiguration.class
 telran\java55\accounting\dto\RolesDto.class
 telran\java55\post\dto\DatePeriodDto.class
 telran\java55\accounting\service\UserAccountService.class

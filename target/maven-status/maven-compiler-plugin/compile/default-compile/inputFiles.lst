@@ -1,4 +1,3 @@
-C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\accounting\configuration\SecurityConfiguration.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\accounting\controller\UserAccountController.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\accounting\dao\UserAccountRepository.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\accounting\dto\exceptions\UserNotFoundException.java
@@ -11,6 +10,7 @@ C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\j
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\accounting\service\UserAccountService.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\accounting\service\UserAccountServiceImpl.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\Application.java
+C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\configuration\SecurityConfiguration.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\configuration\ServiceConfiguration.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\controller\PostController.java
 C:\Users\megos\eclipse-workspace\BackendNew\Forum-Service\src\main\java\telran\java55\post\dao\PostRepository.java
